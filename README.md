@@ -2,29 +2,30 @@
 </p>
 
 <p align="center">
-    <img alt="Size" src="https://img.shields.io/github/repo-size/InPhyT/RedditTextClassification">
+    <img alt="Size" src="https://img.shields.io/github/repo-size/InPhyT/Reddit_Text_Classification">
   </a>
-  <img alt="Forks" src="https://img.shields.io/github/forks/InPhyT/RedditTextClassification">
+  <img alt="Forks" src="https://img.shields.io/github/forks/InPhyT/Reddit_Text_Classification">
   </a>
-  <img alt="Stars" src="https://img.shields.io/github/stars/InPhyT/RedditTextClassification">
+  <img alt="Stars" src="https://img.shields.io/github/stars/InPhyT/Reddit_Text_Classification">
   </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/InPhyT/RedditTextClassification">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/InPhyT/Reddit_Text_Classification">
   </a>
-  <a href="https://github.com/InPhyT/RedditTextClassification/graphs/contributors">
-  <img alt="Licence" src="https://img.shields.io/github/license/InPhyT/RedditTextClassification">
+  <a href="https://github.com/InPhyT/Reddit_Text_Classification/graphs/contributors">
+  <img alt="Licence" src="https://img.shields.io/github/license/InPhyT/Reddit_Text_Classification">
   </a>
-  <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FInPhyT%2FRedditTextClassification"
+  <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FInPhyT%2FReddit_Text_Classification"
   </a>
   
 </p>
 
 <!-- Title -->
 <h1 align="center">
-  Reddit User Gender Classification using NLP 
+  Reddit Text Classification 
 </h1>
 
 <!-- Subtitle -->
 <h3 align="center">
+  User Gender Classification on Reddit using NLP
 </h3>
 
 <!-- Badges -->
@@ -34,7 +35,7 @@
   <a href="https://www.kaggle.com/inphyt2020/dataminingchallange">
     <img alt="Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg">
   </a>
-  <a href="https://nbviewer.jupyter.org/github/InPhyT/RedditTextClassification/">
+  <a href="https://nbviewer.jupyter.org/github/InPhyT/Reddit_Text_Classification/">
     <img alt="nbviewer" src="https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg">
   </a>
   <a href="https://colab.research.google.com/github/InPhyT/DataMiningChallange/blob/master">
