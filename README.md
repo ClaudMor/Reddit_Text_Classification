@@ -2,18 +2,18 @@
 </p>
 
 <p align="center">
-    <img alt="Size" src="https://img.shields.io/github/repo-size/InPhyT/DataMiningChallange">
+    <img alt="Size" src="https://img.shields.io/github/repo-size/InPhyT/RedditTextClassification">
   </a>
-  <img alt="Forks" src="https://img.shields.io/github/forks/InPhyT/DataMiningChallange">
+  <img alt="Forks" src="https://img.shields.io/github/forks/InPhyT/RedditTextClassification">
   </a>
-  <img alt="Stars" src="https://img.shields.io/github/stars/InPhyT/DataMiningChallange">
+  <img alt="Stars" src="https://img.shields.io/github/stars/InPhyT/RedditTextClassification">
   </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/InPhyT/DataMiningChallange">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/InPhyT/RedditTextClassification">
   </a>
-  <a href="https://github.com/InPhyT/DataMiningChallange/graphs/contributors">
-  <img alt="Licence" src="https://img.shields.io/github/license/InPhyT/DataMiningChallange">
+  <a href="https://github.com/InPhyT/RedditTextClassification/graphs/contributors">
+  <img alt="Licence" src="https://img.shields.io/github/license/InPhyT/RedditTextClassification">
   </a>
-  <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FInPhyT%2FDataMiningChallange"
+  <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FInPhyT%2FRedditTextClassification"
   </a>
   
 </p>
