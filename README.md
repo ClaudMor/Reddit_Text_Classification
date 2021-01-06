@@ -20,12 +20,11 @@
 
 <!-- Title -->
 <h1 align="center">
-  Data Mining Challange
+  Reddit User Gender Classification using NLP 
 </h1>
 
 <!-- Subtitle -->
 <h3 align="center">
-  Reddit Gender Text-Classification
 </h3>
 
 <!-- Badges -->
